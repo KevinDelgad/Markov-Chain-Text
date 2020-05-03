@@ -177,4 +177,3 @@ float markov_chain_equivalence(map<string, vector<string>> ans, map<string, vect
 		<< RESET << "Markov Chain is NOT at least 60% equivalent.";
 	return percentage;
 }
-
